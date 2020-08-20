@@ -1,4 +1,4 @@
-package com.sworthington.baseapplication
+package com.sworthington.duckstop
 
 import org.junit.Test
 

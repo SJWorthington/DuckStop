@@ -1,4 +1,4 @@
-package com.sworthington.baseapplication.extensions
+package com.sworthington.duckstop.extensions
 
 import io.reactivex.rxjava3.disposables.CompositeDisposable
 import io.reactivex.rxjava3.disposables.Disposable

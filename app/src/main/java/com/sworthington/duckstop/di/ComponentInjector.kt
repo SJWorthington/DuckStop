@@ -1,4 +1,4 @@
-package com.sworthington.baseapplication.di
+package com.sworthington.duckstop.di
 
 import android.app.Application
 

@@ -1,4 +1,4 @@
-package com.sworthington.baseapplication
+package com.sworthington.duckstop
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

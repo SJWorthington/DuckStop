@@ -1,4 +1,4 @@
-package com.sworthington.baseapplication.base
+package com.sworthington.duckstop.base
 
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModel

@@ -1,7 +1,7 @@
-package com.sworthington.baseapplication.di
+package com.sworthington.duckstop.di
 
 import android.app.Application
-import com.sworthington.baseapplication.MainActivity
+import com.sworthington.duckstop.MainActivity
 import dagger.BindsInstance
 import dagger.Component
 import javax.inject.Singleton

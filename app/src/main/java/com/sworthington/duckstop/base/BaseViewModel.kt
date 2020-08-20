@@ -1,4 +1,4 @@
-package com.sworthington.baseapplication.base
+package com.sworthington.duckstop.base
 
 import androidx.lifecycle.ViewModel
 import io.reactivex.rxjava3.disposables.CompositeDisposable

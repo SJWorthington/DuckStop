@@ -1,6 +1,6 @@
-package com.sworthington.baseapplication.di
+package com.sworthington.duckstop.di
 
-import com.sworthington.baseapplication.network.EmptyAPI
+import com.sworthington.duckstop.network.EmptyAPI
 import dagger.Module
 import dagger.Provides
 import retrofit2.Retrofit

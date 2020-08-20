@@ -1,6 +1,6 @@
-package com.sworthington.baseapplication.ui.example
+package com.sworthington.duckstop.ui.example
 
-import com.sworthington.baseapplication.base.BaseViewModel
+import com.sworthington.duckstop.base.BaseViewModel
 import javax.inject.Inject
 
 class ExampleViewModel @Inject constructor() : BaseViewModel() {

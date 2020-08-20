@@ -1,10 +1,10 @@
-package com.sworthington.baseapplication
+package com.sworthington.duckstop
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.sworthington.baseapplication.di.ComponentInjector
+import com.sworthington.duckstop.di.ComponentInjector
 import javax.inject.Inject
 
 class MainActivity : AppCompatActivity() {

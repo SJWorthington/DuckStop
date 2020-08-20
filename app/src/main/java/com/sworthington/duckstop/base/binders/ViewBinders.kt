@@ -1,4 +1,4 @@
-package com.sworthington.baseapplication.base.binders
+package com.sworthington.duckstop.base.binders
 
 import android.view.ViewGroup
 

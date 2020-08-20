@@ -1,4 +1,4 @@
-package com.sworthington.baseapplication.viewmodels
+package com.sworthington.duckstop.viewmodels
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

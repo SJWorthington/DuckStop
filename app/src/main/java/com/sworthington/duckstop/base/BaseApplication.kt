@@ -1,7 +1,7 @@
-package com.sworthington.baseapplication.base
+package com.sworthington.duckstop.base
 
 import android.app.Application
-import com.sworthington.baseapplication.di.ComponentInjector
+import com.sworthington.duckstop.di.ComponentInjector
 
 class BaseApplication : Application() {
 

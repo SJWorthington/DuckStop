@@ -1,4 +1,4 @@
-package com.sworthington.baseapplication.network
+package com.sworthington.duckstop.network
 
 import com.google.gson.Gson
 import okhttp3.OkHttpClient

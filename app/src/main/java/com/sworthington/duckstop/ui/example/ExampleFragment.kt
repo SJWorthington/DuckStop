@@ -1,11 +1,11 @@
-package com.sworthington.baseapplication.ui.example
+package com.sworthington.duckstop.ui.example
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.sworthington.baseapplication.R
-import com.sworthington.baseapplication.base.BaseFragment
+import com.sworthington.duckstop.R
+import com.sworthington.duckstop.base.BaseFragment
 
 internal class ExampleFragment : BaseFragment() {
 

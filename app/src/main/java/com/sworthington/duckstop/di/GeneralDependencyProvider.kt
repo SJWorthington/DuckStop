@@ -1,4 +1,4 @@
-package com.sworthington.baseapplication.di
+package com.sworthington.duckstop.di
 
 import android.app.Application
 import android.content.Context
@@ -7,11 +7,11 @@ import androidx.lifecycle.ViewModelProvider
 import com.google.gson.FieldNamingPolicy
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder
-import com.sworthington.baseapplication.MainActivityViewModel
-import com.sworthington.baseapplication.network.RetrofitProvider
-import com.sworthington.baseapplication.ui.example.ExampleViewModel
-import com.sworthington.baseapplication.viewmodels.ViewModelFactory
-import com.sworthington.baseapplication.viewmodels.ViewModelMapKey
+import com.sworthington.duckstop.MainActivityViewModel
+import com.sworthington.duckstop.network.RetrofitProvider
+import com.sworthington.duckstop.ui.example.ExampleViewModel
+import com.sworthington.duckstop.viewmodels.ViewModelFactory
+import com.sworthington.duckstop.viewmodels.ViewModelMapKey
 import dagger.Binds
 import dagger.Module
 import dagger.Provides

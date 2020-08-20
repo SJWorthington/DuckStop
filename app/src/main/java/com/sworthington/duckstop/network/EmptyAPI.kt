@@ -1,10 +1,4 @@
-package com.sworthington.baseapplication.network
-
-import io.reactivex.rxjava3.core.Single
-
-import retrofit2.http.Body
-import retrofit2.http.POST
-import retrofit2.http.Url
+package com.sworthington.duckstop.network
 
 internal interface EmptyAPI {
 
